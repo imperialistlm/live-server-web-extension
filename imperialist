@@ -1,0 +1,101 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww29200\viewh15860\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs32 \cf0 \expnd0\expndtw0\kerning0
+<!DOCTYPE html>\
+<html lang="fr">\
+<head>\
+\'a0\'a0\'a0 <meta charset="UTF-8">\
+\'a0\'a0\'a0 <meta name="viewport" content="width=device-width, initial-scale=1.0">\
+\'a0\'a0\'a0 <meta name="description" content="Imperialist - Lunettes de soir\'e9e haut de gamme pour des nuits inoubliables">\
+\'a0\'a0\'a0 <meta name="keywords" content="lunettes de soir\'e9e, lunettes de f\'eate, Imperialist, lunettes \'e9l\'e9gantes, accessoires de soir\'e9e, accessoires de f\'eate">\
+\'a0\'a0\'a0 <meta name="author" content="Imperialist">\
+\'a0\'a0\'a0 <title>Imperialist - Lunettes de soir\'e9e haut de gamme</title>\
+\'a0\'a0\'a0 <link rel="stylesheet" href="styles.css">\
+\'a0\'a0\'a0 <link rel="icon" href="favicon.ico">\
+</head>\
+<body>\
+\'a0\'a0\'a0 <header>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <div class="logo">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <h1>Imperialist</h1>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </div>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <nav>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <ul>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <li><a href="#home">Accueil</a></li>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <li><a href="#about">\'c0 propos</a></li>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <li><a href="#products">Produits</a></li>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <li><a href="#contact">Contact</a></li>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </ul>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </nav>\
+\'a0\'a0\'a0 </header>\
+\'a0\
+\'a0\'a0\'a0 <main>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <section id="home">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <h2>Bienvenue chez Imperialist</h2>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <p>Votre destination ultime pour des lunettes de soir\'e9e haut de gamme. D\'e9marquez-vous lors de chaque \'e9v\'e9nement avec nos designs \'e9l\'e9gants et uniques.</p>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <a href="#products" class="cta-button">Acheter maintenant</a>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </section>\
+\'a0\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <section id="about">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <h2>\'c0 propos</h2>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <p>Chez Imperialist, nous nous sp\'e9cialisons dans la cr\'e9ation de lunettes de haute qualit\'e9 con\'e7ues pour des nuits inoubliables. Que ce soit pour une f\'eate, un mariage ou une occasion sp\'e9ciale, nos lunettes ajoutent une touche d\'92\'e9l\'e9gance et de fun.</p>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </section>\
+\'a0\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <section id="products">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <h2>Nos produits</h2>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <div class="product-list">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <div class="product">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <img src="product1.jpg" alt="Lunettes de soir\'e9e \'e9l\'e9gantes">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <h3>Lunettes de soir\'e9e \'e9l\'e9gantes</h3>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <p>25,00 \'80</p>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <button>Ajouter au panier</button>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </div>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <div class="product">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <img src="product2.jpg" alt="Lunettes de soir\'e9e raffin\'e9es">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <h3>Lunettes de soir\'e9e raffin\'e9es</h3>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <p>30,00 \'80</p>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <button>Ajouter au panier</button>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </div>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <div class="product">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <img src="product3.jpg" alt="Lunettes lumineuses">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <h3>Lunettes lumineuses</h3>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <p>20,00 \'80</p>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <button>Ajouter au panier</button>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </div>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </div>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </section>\
+\'a0\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <section id="contact">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <h2>Contactez-nous</h2>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <p>Des questions ? Contactez-nous !</p>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <form action="#" method="post">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <label for="name">Nom :</label>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <input type="text" id="name" name="name" required>\
+\'a0\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <label for="email">Email :</label>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <input type="email" id="email" name="email" required>\
+\'a0\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <label for="message">Message :</label>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <textarea id="message" name="message" rows="4" required></textarea>\
+\'a0\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <button type="submit">Envoyer</button>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </form>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </section>\
+\'a0\'a0\'a0 </main>\
+\'a0\
+\'a0\'a0\'a0 <footer>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <p>&copy; 2025 Imperialist. Tous droits r\'e9serv\'e9s.</p>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <ul class="social-media">\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <li><a href="#">Facebook</a></li>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <li><a href="#">Instagram</a></li>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0 <li><a href="#">Twitter</a></li>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0 </ul>\
+\'a0\'a0\'a0 </footer>\
+</body>\
+</html>\
+}
